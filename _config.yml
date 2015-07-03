@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Experte.github.io
+title: Mes chaussures
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
